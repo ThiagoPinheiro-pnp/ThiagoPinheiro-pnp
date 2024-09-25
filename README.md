@@ -19,5 +19,10 @@ eu lembrei do git init
 
 git push
 
+
 01/03/05/07/11
+
+
+13/17/19/23/29/31
+
 
